@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "cn-CN"
+locale                   : "en-US"
 title                    : "山东省计算中心副研究员"
 title_separator          : "-"
 name                     : &name "Changwei Wang"
@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "王常维"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "泰山学者（青年专家），中国科学院院长特别奖获得者"
+  location         : "山东省，济南市"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "changweiwang@sdas.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=DnJKQI8AAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
