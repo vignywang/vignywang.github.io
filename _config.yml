@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Associate Researcher"
+locale                   : "cn-CN"
+title                    : "山东省计算中心副研究员"
 title_separator          : "-"
 name                     : &name "Changwei Wang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "vignywang/vignywang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "王常维"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
