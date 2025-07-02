@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "王常维"
   pronouns         : # example: "she/her"  
-  bio              : "泰山学者（青年专家），中国科学院院长特别奖获得者"
+  bio              : "泰山学者（青年专家）\\ 中国科学院院长特别奖获得者"
   location         : "山东省，济南市"
-  employer         : "Red Brick University"
+  employer         : "山东省计算中心(国家超级计算济南中心)"
   uri              : # URL
   email            : "changweiwang@sdas.org" 
 
