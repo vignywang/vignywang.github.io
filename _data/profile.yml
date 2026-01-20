@@ -1,20 +1,20 @@
-primary_name: "Rongsheng Wang"
+primary_name: "Changwei Wang"
 secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+navbar_name: "Changwei Wang's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/cuhk-sz.png" alt="The Chinese University of Hong Kong, Shenzhen" class="inline-badge"/></span> Ph.D., The Chinese University of Hong Kong, Shenzhen (2025)'
+  - '<span class="no-break">山东省计算中心（国家超级计算济南中心）副研究员</span>'
 
 email: "wang.rongsheng@outlook.com"
-gscholar: SSaBaioAAAAJ
+gscholar: DnJKQI8AAAAJ
 # sscholar: Rongsheng-Wang/2261313297
-github: wangrongsheng
-twitter: RongshengWang
+# github: wangrongsheng
+# twitter: RongshengWang
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # zhihu: wang-rong-sheng-74
-resume: assets/cv/Resume_RongshengWang.pdf
+# resume: assets/cv/Resume_RongshengWang.pdf
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 xiaohongshu: 5fa2663000000000010068e2
@@ -24,8 +24,7 @@ short_bio: >-
 
 show_portrait: true
 portrait_url: assets/images/photos/55651568.jpeg
-portrait_caption: >-
-  我是王荣胜，欢迎访问我的主页~
+
 
 education:
 - name: The Chinese University of Hong Kong, Shenzhen
@@ -86,4 +85,4 @@ service:
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
+  Copyright © 2026 <a href="https://github.com/WangRongsheng" target="_blank">Changwei Wang</a>. All Rights Reserved.
