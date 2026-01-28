@@ -1,6 +1,6 @@
 ---
 title:          Adaptive In Adapter: Boosting Open-Vocabulary Semantic Segmentation with Adaptive Dropout Adapter
-date:           2026
+date:           2026-05-23 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Multimedia"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
