@@ -22,65 +22,57 @@ gscholar: DnJKQI8AAAAJ
 short_bio: >-
  I am Wang Changwei, currently serving as a Researcher at the Shandong Provincial Computing Center (National Supercomputing Center in Jinan). I earned my Bachelor's degree in Software Engineering from Tiangong University in 2019. Subsequently, I obtained my Ph.D. in Computer Application Technology from the Institute of Automation, Chinese Academy of Sciences in 2024, under the supervision of Professors Zhang Xiaopeng and Xu Shibiao.
  My research interests include multimodal large language models and agents, embodied intelligence, 3D vision, and AI for science (Healthcare, Energy, and Quantum).
+ <br>
+  我是王常维，现于山东省计算中心（国家超级计算济南中心）担任研究员。2019年毕业于天津工业大学，获软件工程学士学位。2024年，在张晓鹏研究员和徐士彪教授的指导下，于中国科学院自动化研究所多模态人工智能系统全国重点实验室获得计算机应用技术博士学位。
+研究方向涵盖多模态大语言模型与智能体、具身智能、三维视觉以及面向科学领域的人工智能（医疗健康、能源与量子领域）。
+
+
 show_portrait: true
 portrait_url: assets/images/photos/1895.jpg
 
 
 education:
-- name: The Chinese University of Hong Kong, Shenzhen
-  logo: assets/images/badges/cuhk-sz.png
-  position: Ph.D. in Computational Biology and Health Informatics
-  date: Sep. 2025 - Now
-- name: Macao Polytechnic University
-  logo: assets/images/badges/mpu_master.png
-  position: M.S. in Big Data and Internet of Things
-  date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
-  logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
-  date: Sep. 2018 - Jul. 2022
+- name: Institute of Automation, Chinese Academy of Sciences
+  logo: assets/images/badges/casia.jpg
+  position: Ph.D. in Computer Application Technology
+  date: Sep. 2019 - 2024
+- name: Tiangong University
+  logo: assets/images/badges/tgu.png
+  position: B.S. in Software Engineering
+  date: Sep. 2015 - Jul. 2019
   
 experience:
-- name: CUHK (SZ)
-  logo: assets/images/badges/cuhk-sz.png
-  position: Research Assistant (Supervisor is <a href="https://wabyking.github.io/old.html">Benyou Wang</a>)
-  date: Sep. 2024 - Sep. 2025
-- name: Qiyuan.Tech
-  logo: assets/images/badges/qiyuan.png
-  position: CTO
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+- name: Shandong Provincial Computing Center (National Supercomputing Center in Jinan)
+  logo: assets/images/badges/jn.png
+  position: Distinguished Research Fellow
+  date: Oct. 2024 - Now
+
 
 
 awards:
-- name: 🥈Second Prize of Yidu Healthcare Hackathon
+- name: 泰山学者青年专家
   date: 2025
-- name: 🥇First Prize of LIC 2025
-  date: 2025
-- name: 🎫Kaggle Competitions Expert
-  date: 2025
-- name: 🥇Gold Medal of Kaggle AI Mathematical Olympiad - Progress Prize 2
-  date: 2025
-- name: 🎫Outstanding Award of JingDong Health - Global AI Innovation Competition
+- name: 中国科学院院长特别奖
   date: 2024
-- name: 🥇First Prize of Baidu PaddlePaddle AGI Hackathon
+- name: 北京市普通高等学校优秀毕业生
   date: 2024
-- name: 🥉Third Prize of DiMTAIC (Organized by JingDong Health)
+- name: 中国科学院大学优秀毕业生
+  date: 2024
+- name: 朱李月华奖学金
   date: 2023
-- name: 🥉Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: 🥈Silver Medal of Kaggle RSNA Screening Mammography Cancer Detection
-  date: 2023
-- name: 🎫Outstanding Award of IEEE UV 2022 Object Detection Challenge
+- name: 国家奖学金
   date: 2022
+- name: Finalist for Best Paper of IEEE ICME 2022
+  date: 2022
+- name: 丁克昌奖学金
+  date: 2019
+- name: 国家奖学金
+  date: 2018
+- name: 天津市人民政府奖学金
+  date: 2017
 
 service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
-- name: Reviewer of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging (TMI)</a>
-- name: Reviewer of <a href="https://2025.ieeeicme.org/">ICME 2025</a>
+- name: Reviewer or PC of CVPR\ICCV\ECCV\NeurIPS\ICML\ICLR\IJCAI\KDD\ICRA\MICCAI\IEEE TIP\IEEE TMM\IEEE TNNLS\IEEE TGRS.
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
