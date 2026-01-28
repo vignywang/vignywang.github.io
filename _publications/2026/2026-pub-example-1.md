@@ -1,13 +1,13 @@
 ---
 title:          Dual Retrieving and Ranking Medical Large Language Model with Retrieval Augmented Generation
-date:           2025-05-23 00:01:00 +0800
+date:           2026-05-23 00:01:00 +0800
 selected:       true
 pub:            "Scientific Reports"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
-pub_date:       "2025"
+pub_date:       "2026"
 
 abstract: >-
   We proposes a two-step retrieval-augmented generation framework combining embedding search and Elasticsearch with ColBERTv2 ranking, achieving a 10% accuracy boost in complex medical queries while addressing real-time deployment challenges.
