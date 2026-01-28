@@ -24,7 +24,7 @@ short_bio: >-
  My research interests include multimodal large language models and agents, embodied intelligence, 3D vision, and AI for science (Healthcare, Energy, and Quantum).
  <br>
   我是王常维，现于山东省计算中心（国家超级计算济南中心）担任研究员。2019年毕业于天津工业大学，获软件工程学士学位。2024年，在张晓鹏研究员和徐士彪教授的指导下，于中国科学院自动化研究所多模态人工智能系统全国重点实验室获得计算机应用技术博士学位。
-研究方向涵盖多模态大语言模型与智能体、具身智能、三维视觉以及面向科学领域的人工智能（医疗健康、能源与量子领域）。
+研究方向涵盖多模态大语言模型与智能体、具身智能、三维视觉以及面向科学领域的人工智能（医疗健康、能源与量子领域）。在CVPR、ICCV、ICLR、NeurIPS、ICML、DAC、AAAI、ACM MM、MICCAI、ICRA、IROS、IEEE TPAMI、IEEE TIP、IEEE TNNLS、IEEE TMM、IEEE TCSVT、IEEE TII、IEEE TGRS、Information Fusion、等国际权威会议和期刊发表论文70余篇。
 
 
 show_portrait: true
@@ -72,7 +72,7 @@ awards:
   date: 2017
 
 service:
-- name: Reviewer or PC of CVPR\ICCV\ECCV\NeurIPS\ICML\ICLR\IJCAI\KDD\ICRA\MICCAI\IEEE TIP\IEEE TMM\IEEE TNNLS\IEEE TGRS.
+- name: Reviewer or PC of CVPR\ICCV\ECCV\NeurIPS\ICML\ICLR\AAAI\ACM MM\IJCAI\KDD\ICRA\MICCAI\IEEE TIP\IEEE TMM\IEEE TNNLS\IEEE TGRS.
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
