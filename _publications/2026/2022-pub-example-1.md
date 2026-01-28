@@ -1,5 +1,5 @@
 ---
-title:          Adaptive In Adapter: Boosting Open-Vocabulary Semantic Segmentation with Adaptive Dropout Adapter
+title:          Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos
 date:           2026-05-23 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Multimedia"
