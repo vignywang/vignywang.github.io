@@ -14,7 +14,7 @@ abstract: >-
 
 cover:          assets/images/covers/aia.png
 authors:
- - Changwei Wang
+  - Changwei Wang
   - Wenhao Xu
   - Rongtao Xu
   - Zherui Zhang
