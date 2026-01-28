@@ -1,9 +1,9 @@
-primary_name: "Changwei Wang"
+primary_name: "Wang Changwei"
 secondary_name: ""
-navbar_name: "Changwei Wang's Home Page"
+navbar_name: "Wang Changwei's Home Page"
 
 positions:
-  - '<span class="no-break">山东省计算中心（国家超级计算济南中心）副研究员</span>'
+  - '<span class="no-break">山东省计算中心（国家超级计算济南中心）研究员</span>'
 
 email: "changweiwang@sdas.org"
 gscholar: DnJKQI8AAAAJ
@@ -20,9 +20,8 @@ gscholar: DnJKQI8AAAAJ
 # xiaohongshu: 5fa2663000000000010068e2
 
 short_bio: >-
-  I am Rongsheng Wang (<ruby>王<rt>Wáng</rt>荣<rt>Róng</rt>胜<rt>Shèng</rt></ruby><button class="speak-btn" data-name="王荣胜">🔊</button>), currently pursuing my PhD at <a href="https://www.cuhk.edu.cn/zh-hans" target="_blank" rel="noopener">The Chinese University of Hong Kong, Shenzhen</a>. My primary research interests lie in Large Language Models (LLMs) and Multimodal LLMs (MLLMs). I love open source and sharing useful knowledge with everyone. I have been featured in <a href="https://china-ranking.32k.site/ ">China-Ranking</a> and recognized as an outstanding individual developer on GitHub in China.</br></br> I actively contribute to the open-source community on <a href="https://github.com/WangRongsheng">👾GitHub</a> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wangrongsheng?style=flat-square">, where I’ve led or contributed to several notable projects, including <a href="https://github.com/kaixindelele/ChatPaper/stargazers" target="_blank">ChatPaper <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?color=orange" alt="GitHub Stars"></a>, <a href="https://github.com/WangRongsheng/XrayGLM/stargazers" target="_blank">XrayGLM <img src="https://img.shields.io/github/stars/WangRongsheng/XrayGLM?color=orange" alt="GitHub Stars"></a>, <a href="https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers" target="_blank">Awesome-LLM-Resources <img src="https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses?color=orange" alt="GitHub Stars"></a>, and <a href="https://github.com/FreedomIntelligence/TinyDeepSeek/stargazers" target="_blank">TinyDeepSeek <img src="https://img.shields.io/github/stars/FreedomIntelligence/TinyDeepSeek?color=orange" alt="GitHub Stars"></a>. I also share datasets and model weights from these projects on <a href="https://huggingface.co/wangrongsheng">🤗HuggingFace</a>.
-
-show_portrait: true
+ I am Wang Changwei, currently serving as a Researcher at the Shandong Provincial Computing Center (National Supercomputing Center in Jinan). I earned my Bachelor's degree in Software Engineering from Tiangong University in 2019. Subsequently, I obtained my Ph.D. in Computer Application Technology from the Institute of Automation, Chinese Academy of Sciences in 2024, under the supervision of Professors Zhang Xiaopeng and Xu Shibiao.
+ My research interests include multimodal large language models and agents, embodied intelligence, 3D vision, and AI for science (Healthcare, Energy, and Quantum).
 portrait_url: assets/images/photos/55651568.jpeg
 
 
