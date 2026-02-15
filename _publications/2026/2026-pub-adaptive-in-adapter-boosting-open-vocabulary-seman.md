@@ -1,7 +1,7 @@
 ---
 title:          "Adaptive In Adapter: Boosting Open-Vocabulary Semantic Segmentation with Adaptive Dropout Adapter"
 date:           2026-02-15 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Transactions on Multimedia"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Scholar Paper</span>'
 pub_date:       "2026"
@@ -22,4 +22,5 @@ authors:
   - Xiaopeng Zhang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11353925/
+  Code: https://github.com/clearxu/AIA
 ---
