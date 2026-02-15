@@ -1,6 +1,6 @@
 ---
 title:          "Controllable Panoramic Video Generation with 360-Degree Motion Consistency"
-date:           2026-01-01 00:01:00 +0800
+date:           2026-02-01 00:01:00 +0800
 selected:       false
 pub:            "Available at SSRN 5433210"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Scholar Paper</span>'
