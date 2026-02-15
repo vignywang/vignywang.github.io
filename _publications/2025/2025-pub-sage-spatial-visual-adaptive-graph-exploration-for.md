@@ -1,7 +1,7 @@
 ---
 title:          "Sage: Spatial-visual adaptive graph exploration for visual place recognition"
 date:           2025-02-15 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "ICLR2026"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Scholar Paper</span>'
 pub_date:       "2025"
