@@ -19,11 +19,11 @@ gscholar: DnJKQI8AAAAJ
 # orcid: 0000-0000-0000-0000
 # xiaohongshu: 5fa2663000000000010068e2
 
-short_bio:
- #I am Wang Changwei, currently serving as a Researcher at the Shandong Provincial Computing Center (National Supercomputing Center in Jinan). I earned my Bachelor's degree in Software Engineering from Tiangong University in 2019. Subsequently, I obtained my Ph.D. in Computer Application Technology from the Institute of Automation, Chinese Academy of Sciences in 2024, under the supervision of Professors Zhang Xiaopeng and Xu Shibiao.
+short_bio: >-
+ I am Wang Changwei, currently serving as a Researcher at the Shandong Provincial Computing Center (National Supercomputing Center in Jinan). I earned my Bachelor's degree in Software Engineering from Tiangong University in 2019. Subsequently, I obtained my Ph.D. in Computer Application Technology from the Institute of Automation, Chinese Academy of Sciences in 2024, under the supervision of Professors Zhang Xiaopeng and Xu Shibiao.
  My research interests include multimodal large language models and agents, embodied intelligence, 3D vision, and AI for science (Healthcare, Energy, and Quantum).
  Over 70 papers have been published in internationally renowned conferences and journals including CVPR, ICCV, ICLR, NeurIPS, ICML, DAC, AAAI, ACM MM, MICCAI, ICRA, IROS, IEEE TPAMI, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TII, IEEE TGRS, and Information Fusion.
-"我是王常维，现任职于山东省计算中心（国家超级计算济南中心）研究员。2019年毕业于天津工业大学，获软件工程学士学位。2024年，在张晓鹏教授与徐士彪教授指导下，于中国科学院自动化研究所获得计算机应用技术博士学位。研究方向涵盖多模态大语言模型与智能体、具身智能、三维视觉及AI4S（医疗健康、能源与量子领域）。已在CVPR、ICCV、ICLR、NeurIPS、ICML、DAC、AAAI、ACM MM、MICCAI、ICRA、IROS、IEEE TPAMI、IEEE TIP、IEEE TNNLS、IEEE TMM、IEEE TCSVT、IEEE TII、IEEE TGRS及《信息融合》等国际知名会议期刊发表论文70余篇。"
+#"我是王常维，现任职于山东省计算中心（国家超级计算济南中心）研究员。2019年毕业于天津工业大学，获软件工程学士学位。2024年，在张晓鹏教授与徐士彪教授指导下，于中国科学院自动化研究所获得计算机应用技术博士学位。研究方向涵盖多模态大语言模型与智能体、具身智能、三维视觉及AI4S（医疗健康、能源与量子领域）。已在CVPR、ICCV、ICLR、NeurIPS、ICML、DAC、AAAI、ACM MM、MICCAI、ICRA、IROS、IEEE TPAMI、IEEE TIP、IEEE TNNLS、IEEE TMM、IEEE TCSVT、IEEE TII、IEEE TGRS及《信息融合》等国际知名会议期刊发表论文70余篇。"
 show_portrait: true
 portrait_url: assets/images/photos/1895.jpg
 
