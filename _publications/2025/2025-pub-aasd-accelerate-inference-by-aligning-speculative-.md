@@ -18,8 +18,8 @@ authors:
   - Yuzhi Chen
   - Rongtao Xu
   - Kexue Fu
-  - Changwei Wang
-  - Longxiang Gao
+  - Changwei Wang*
+  - Longxiang Gao*
 links:
   Paper: #
 ---
